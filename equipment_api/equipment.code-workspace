@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../equipments"
+		},
+		{
+			"path": "../../bungki-e-wallet-application/smartpass"
+		}
+	],
+	"settings": {}
+}
